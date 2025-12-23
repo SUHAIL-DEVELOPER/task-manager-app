@@ -136,6 +136,40 @@ Frontend runs at:
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](./screenshots/Screenshot%20(12).png)
+
+### Register Page
+![Register Page](./screenshots/Screenshot%20(13).png)
+
+### Dashboard (Dark Mode)
+![Dashboard Dark Mode](./screenshots/Screenshot%20(14).png)
+
+### Task Creation
+![Task Creation](./screenshots/Screenshot%20(15).png)
+
+### Tasks with Priorities
+![Tasks with Priorities](./screenshots/Screenshot%20(16).png)
+
+### Task Filtering - Completed
+![Completed Tasks](./screenshots/Screenshot%20(17).png)
+
+### Task Filtering - Pending
+![Pending Tasks](./screenshots/Screenshot%20(18).png)
+
+### Progress Bar
+![Progress Bar](./screenshots/Screenshot%20(19).png)
+
+### Light Mode
+![Light Mode](./screenshots/Screenshot%20(20).png)
+
+### Search Functionality
+![Search](./screenshots/Screenshot%20(21).png)
+
+---
+
 ## Security
 - Password hashing using bcrypt
 - JWT-based authentication
